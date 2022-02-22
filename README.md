@@ -1,4 +1,4 @@
-# multi-downloader
+# multithreaded-downloader
 
 >This project is an assignment for Parallel Systems Programming course of IHU.
 
